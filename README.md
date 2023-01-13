@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "<tt>lhbench</tt>: Lakehouse storage system benchmark"
+title:  "lhbench: Lakehouse storage system benchmark"
 ---
 
 <img style="float: right;" src="images/lakehouse-bench-painting-cover-photo.png" width=350/>
