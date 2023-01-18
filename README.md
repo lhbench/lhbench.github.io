@@ -1,6 +1,6 @@
-<img style="float: right;" src="images/lakehouse-bench-painting-cover-photo.png" width=350/>
-
 # Introduction
+
+<img style="float: right;" src="images/lakehouse-bench-painting-cover-photo.png" width=350/>
 
 LHBench is a benchmark for [Lakehouse](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf) storage systems. These systems extend traditional Data Lake storage with support for ACID transactions and enable a wide range of workloads from data warehousing to machine learning in one place. LakeHouse architectures are widely adopted in industry at companies such as Uber, Meta, and Netflix. Our benchmark runs on AWS EMR and currently supports three Lakehouse storage engines: [Apache Iceberg](http://iceberg.apache.org), [Apache Hudi](http://hudi.apache.org), and [Delta Lake](http://delta.io). This benchmark is meant to enable simple and reproducible comparison of storage engines in this rapidly moving space.
 
